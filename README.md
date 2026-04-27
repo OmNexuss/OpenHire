@@ -61,6 +61,7 @@ playwright install chromium
 4. Sağ panelde iş tanımı tam yüklendiğinde, terminalde bekleyen Playwright panelinden RESUME butonuna basın.
 ---
 ⚖️ Lisans
+---
 Bu proje kişisel gelişim ve Ar-Ge amaçlıdır. Tüm hakları saklıdır.
 ---
 **© 2026 OmNexus. All Rights Reserved.**
